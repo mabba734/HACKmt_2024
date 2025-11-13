@@ -7,7 +7,7 @@ The goal was to create an accessible tool that promotes transparency and helps c
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The application allows users to:
 - Enter medical billing line items
@@ -19,7 +19,7 @@ The project was completed under intense time constraints and focused on rapid pr
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Next.js** (App Router)
 - **TypeScript**
@@ -30,7 +30,7 @@ The project was completed under intense time constraints and focused on rapid pr
 
 ---
 
-## 🎯 My Contributions
+##  My Contributions
 
 Because hackathons are fast-paced and team roles overlap, all members contributed across multiple areas.  
 My contributions included:
@@ -44,7 +44,7 @@ My contributions included:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - Simple and intuitive UI for entering bill line items  
 - Real-time comparison against reference values  
@@ -54,7 +54,7 @@ My contributions included:
 
 ---
 
-## 📦 Running the Project Locally
+##  Running the Project Locally
 
 Clone the repository and install dependencies:
 
