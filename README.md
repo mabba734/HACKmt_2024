@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Medical Bill Overcharge Detector — HACKmt 2024
 
-## Getting Started
+This project was developed as part of **HACKmt 2024**, a 36-hour collegiate hackathon hosted at Middle Tennessee State University.  
+Our team built a web-based tool designed to help users detect potential **overcharges in medical or hospital bills** by comparing entered charges against reference price ranges.
 
-First, run the development server:
+The goal was to create an accessible tool that promotes transparency and helps consumers better understand unexpected healthcare costs.
+
+---
+
+## 🚀 Project Overview
+
+The application allows users to:
+- Enter medical billing line items
+- Compare charges against expected cost ranges
+- View a clear visual breakdown of potential discrepancies
+- Understand which items may require further investigation
+
+The project was completed under intense time constraints and focused on rapid prototyping, problem-solving, and collaboration.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Next.js** (App Router)
+- **TypeScript**
+- **React**
+- **Node.js**
+- **CSS / Tailwind or standard React styling** (depending on repo)
+- **Git & GitHub** for version control
+
+---
+
+## 🎯 My Contributions
+
+Because hackathons are fast-paced and team roles overlap, all members contributed across multiple areas.  
+My contributions included:
+
+- Implementing portions of the **frontend UI** in Next.js/React  
+- Assisting with **data-handling logic** used to flag potential overcharges  
+- Refining **layout and user experience** during development  
+- General debugging, testing, and collaborating with teammates during the sprint  
+
+(These contributions are intentionally accurate and modest, since specific responsibilities are difficult to recall long after a hackathon.)
+
+---
+
+## ✨ Key Features
+
+- Simple and intuitive UI for entering bill line items  
+- Real-time comparison against reference values  
+- Visual indicator for items potentially overpriced  
+- Clean and minimal interface designed for clarity  
+- Rapid development cycle optimized for hackathon constraints  
+
+---
+
+## 📦 Running the Project Locally
+
+Clone the repository and install dependencies:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+git clone https://github.com/mabba734/HACKmt_2024.git
+cd HACKmt_2024
+npm install
