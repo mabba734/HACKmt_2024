@@ -5,7 +5,6 @@ Our team built a web-based tool designed to help users detect potential **overch
 
 The goal was to create an accessible tool that promotes transparency and helps consumers better understand unexpected healthcare costs.
 
----
 
 ##  Project Overview
 
@@ -17,7 +16,6 @@ The application allows users to:
 
 The project was completed under intense time constraints and focused on rapid prototyping, problem-solving, and collaboration.
 
----
 
 ##  Technologies Used
 
@@ -28,7 +26,6 @@ The project was completed under intense time constraints and focused on rapid pr
 - **CSS / Tailwind or standard React styling** (depending on repo)
 - **Git & GitHub** for version control
 
----
 
 ##  My Contributions
 
@@ -42,7 +39,7 @@ My contributions included:
 
 (These contributions are intentionally accurate and modest, since specific responsibilities are difficult to recall long after a hackathon.)
 
----
+
 
 ##  Key Features
 
@@ -52,7 +49,7 @@ My contributions included:
 - Clean and minimal interface designed for clarity  
 - Rapid development cycle optimized for hackathon constraints  
 
----
+
 
 ##  Running the Project Locally
 
